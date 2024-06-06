@@ -46,3 +46,18 @@ Day-4
        12321
       1234321
 
+_____________________________________________________________________________________________________________
+Day-5
+
+1.	Write a function to print all prime factors of a given number. For example, if the number is 36 then your result should be 2, 2, 3, 3.
+2.	Write a function in C to print first N terms of Fibonacci series.
+3.	Pattern .
+    *
+    **
+    **
+    **
+    ***
+    **
+    *
+    **
+    *
